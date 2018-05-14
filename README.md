@@ -1,1 +1,1 @@
-* Protractor TypeScript Example
+* Protractor TypeScript Example [![Build Status](https://travis-ci.com/upgundecha/protractor-ts-example.svg?branch=master)](https://travis-ci.com/upgundecha/protractor-ts-example)
