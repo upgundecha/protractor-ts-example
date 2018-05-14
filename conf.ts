@@ -13,12 +13,5 @@ export let config: Config = {
   noGlobals: true,
   jasmineNodeOpts: {
     showColors: true, // Use colors in the command line report.
-  },
-  onPrepare: () => {
-    let globals = require('protractor');
-    let browser = globals.browser;
-    browser.manage().window().maximize();
-    browser.manage().timeouts().implicitlyWait(5000);
-    
   }
 };
