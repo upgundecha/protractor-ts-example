@@ -1,0 +1,1 @@
+* Protractor TypeScript Example

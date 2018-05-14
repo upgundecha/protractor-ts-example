@@ -1,0 +1,30 @@
+{
+  "name": "protractor-ts-example",
+  "version": "1.0.0",
+  "description": "Protractor TypeScript Example",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.7",
+    "@types/jasminewd2": "^2.0.3",
+    "@types/node": "^10.0.8",
+    "jasmine-spec-reporter": "^4.2.1"
+  },
+  "scripts": {
+    "pretest": "npm run tsc",
+    "test": "protractor tmp/conf.js",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/upgundecha/protractor-ts-example.git"
+  },
+  "author": "Unmesh Gundecha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upgundecha/protractor-ts-example/issues"
+  },
+  "homepage": "https://github.com/upgundecha/protractor-ts-example#readme"
+}
