@@ -1,1 +1,2 @@
-* Protractor TypeScript Example [![Build Status](https://travis-ci.com/upgundecha/protractor-ts-example.svg?branch=master)](https://travis-ci.com/upgundecha/protractor-ts-example)
+# Protractor TypeScript Example [![Build Status](https://travis-ci.com/upgundecha/protractor-ts-example.svg?branch=master)](https://travis-ci.com/upgundecha/protractor-ts-example)
+Simple Test Suite built with Protractor in TypeScript
